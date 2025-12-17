@@ -2,7 +2,7 @@
 This program is meant to be a student grade manager. If you have a lot of student grades you need to keep track of, this system is your solution because it lets you add students to a record, delete students from a record, adjust student grades, and keep track of their majors. This program can save you a lot of time if you manually keep track of your student's grades.
 
 **Installation:**
-To install, download the file (*Martin_Caleb_Week4*) from this repository and put it anywhere you want on your computer (Just keep it inside the folder it comes in).
+To install, download the file (*Martin_Caleb_Week4*) from this repository and put it anywhere you want on your computer (Just keep it inside a seperate folder).
 
 To run this program you need **Python 3.13+**
 [find Python here](https://www.python.org/)
